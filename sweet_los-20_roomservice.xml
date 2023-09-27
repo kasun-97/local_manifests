@@ -6,10 +6,10 @@
     remote="github"  
     revision="los-20" />
 <project
-    name= "LineageOS/android_device_xiaomi_sm6150-common"
+    name= "kasun-97/android_device_xiaomi_sm6150-common"
     path="device/xiaomi/sm6150-common"
     remote="github"  
-    revision="lineage-20" />
+    revision="los-20" />
  <project
     name= "LineageOS/android_kernel_xiaomi_sm6150"
     path="kernel/xiaomi/sm6150"
@@ -21,10 +21,10 @@
     remote="github"  
     revision="los-20" />
 <project
-    name= "TheMuppets/proprietary_vendor_xiaomi_sm6150-common"
+    name= "kasun-97/proprietary_vendor_xiaomi_sm6150-common"
     path="vendor/xiaomi/sm6150-common"
     remote="github"  
-    revision="lineage-20" />
+    revision="los-20" />
 <project
     name= "LineageOS/android_hardware_xiaomi"
     path="hardware/xiaomi"
