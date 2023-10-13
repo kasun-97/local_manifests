@@ -30,4 +30,9 @@
     path="hardware/xiaomi"
     remote="github"  
     revision="lineage-20" />
+<project
+    name= "aosp-playground/android_vendor_xiaomi_sweet-miuicamera"
+    path="vendor/xiaomi/sweet-miuicamera"
+    remote="github"  
+    revision="thirteen" />
  </manifest>
