@@ -16,6 +16,11 @@
     remote="github"  
     revision="lineage-20" />
 <project
+    name= "LineageOS/android_hardware_xiaomi"
+    path="hardware/xiaomi"
+    remote="github"  
+    revision="lineage-20" />
+<project
     name= "LineageOS/android_hardware_mediatek"
     path="hardware/mediatek"
     remote="github"  
