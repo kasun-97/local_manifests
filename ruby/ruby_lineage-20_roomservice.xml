@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project 
+    name="Lineage-20-0/android_device_xiaomi_ruby" 
+    path="device/xiaomi/ruby" 
+    remote="github"  
+    revision="lineage-20" />
+<project
+    name= "Lineage-20-0/android_kernel_xiaomi_mt6877"
+    path="kernel/xiaomi/mt6877"
+    remote="github"  
+    revision="lineage-20" /> 
+<project 
+    name="Lineage-20-0/android_vendor_xiaomi_ruby" 
+    path="vendor/xiaomi/ruby" 
+    remote="github"  
+    revision="lineage-20" />
+<project
+    name= "LineageOS/android_hardware_mediatek"
+    path="hardware/mediatek"
+    remote="github"  
+    revision="lineage-20" />
+<project
+    name= "LineageOS/android_device_mediatek_sepolicy_vndr"
+    path="device/mediatek/sepolicy_vndr"
+    remote="github"  
+    revision="lineage-20" />
+ </manifest>
