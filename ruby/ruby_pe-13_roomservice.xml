@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project 
+    name="kasun-97/android_device_xiaomi_ruby" 
+    path="device/xiaomi/ruby" 
+    remote="github"  
+    revision="pe" />
+<project
+    name= "PQEnablers-Devices/android_kernel_xiaomi_mt6877"
+    path="kernel/xiaomi/mt6877"
+    remote="github"  
+    revision="lineage-20" /> 
+<project 
+    name="PQEnablers-Devices/android_vendor_xiaomi_ruby" 
+    path="vendor/xiaomi/ruby" 
+    remote="github"  
+    revision="lineage-20" />
+<project
+    name= "PixelExperience/hardware_xiaomi"
+    path="hardware/xiaomi"
+    remote="github"  
+    revision="thirteen" />
+<project
+    name= "PixelExperience/hardware_mediatek"
+    path="hardware/mediatek"
+    remote="github"  
+    revision="thirteen" />
+<project
+    name= "PixelExperience/device_mediatek_sepolicy_vndr"
+    path="device/mediatek/sepolicy_vndr"
+    remote="github"  
+    revision="thirteen" />
+ </manifest>
