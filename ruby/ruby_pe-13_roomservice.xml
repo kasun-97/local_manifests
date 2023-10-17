@@ -26,7 +26,7 @@
     remote="github"  
     revision="lineage-20-foss" />
 <project
-    name= "LineageOS/android_device_mediatek_sepolicy_vndr"
+    name= "PQEnablers-Devices/android_device_mediatek_sepolicy_vndr"
     path="device/mediatek/sepolicy_vndr"
     remote="github"  
     revision="lineage-20" />
