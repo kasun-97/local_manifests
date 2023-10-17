@@ -21,10 +21,10 @@
     remote="github"  
     revision="lineage-20" />
 <project
-    name= "LineageOS/android_hardware_mediatek"
+    name= "PQEnablers-Devices/android_hardware_mediatek"
     path="hardware/mediatek"
     remote="github"  
-    revision="lineage-20" />
+    revision="lineage-20-foss" />
 <project
     name= "LineageOS/android_device_mediatek_sepolicy_vndr"
     path="device/mediatek/sepolicy_vndr"
