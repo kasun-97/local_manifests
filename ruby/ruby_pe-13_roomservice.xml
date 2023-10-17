@@ -16,18 +16,18 @@
     remote="github"  
     revision="lineage-20" />
 <project
-    name= "PixelExperience/hardware_xiaomi"
+    name= "LineageOS/android_hardware_xiaomi"
     path="hardware/xiaomi"
     remote="github"  
-    revision="thirteen" />
+    revision="lineage-20" />
 <project
-    name= "PixelExperience/hardware_mediatek"
+    name= "LineageOS/android_hardware_mediatek"
     path="hardware/mediatek"
     remote="github"  
-    revision="thirteen" />
+    revision="lineage-20" />
 <project
-    name= "PixelExperience/device_mediatek_sepolicy_vndr"
+    name= "LineageOS/android_device_mediatek_sepolicy_vndr"
     path="device/mediatek/sepolicy_vndr"
     remote="github"  
-    revision="thirteen" />
+    revision="lineage-20" />
  </manifest>
