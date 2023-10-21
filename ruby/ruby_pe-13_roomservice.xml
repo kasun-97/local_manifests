@@ -14,7 +14,7 @@
     name="PQEnablers-Devices/android_vendor_xiaomi_ruby" 
     path="vendor/xiaomi/ruby" 
     remote="github"  
-    revision="lineage-20" />
+    revision="dolby/lineage-20" />
 <project
     name= "LineageOS/android_hardware_xiaomi"
     path="hardware/xiaomi"
