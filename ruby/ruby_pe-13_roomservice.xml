@@ -16,10 +16,10 @@
     remote="github"  
     revision="dolby/lineage-20" />
 <project
-    name= "LineageOS/android_hardware_xiaomi"
+    name= "PixelExperience/hardware_xiaomi"
     path="hardware/xiaomi"
     remote="github"  
-    revision="lineage-20" />
+    revision="thirteen" />
 <project
     name= "PQEnablers-Devices/android_hardware_mediatek"
     path="hardware/mediatek"
